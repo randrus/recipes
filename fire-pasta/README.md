@@ -1,4 +1,4 @@
-# mush
+# Fire Pasta
 
 ## Overview
 
@@ -6,14 +6,17 @@ This is a favorite in my house, where our motto is "everything is betta with fet
 
 It's quick and easy and visually appealing.
 
-My son calls it "Fire Pasta".
+I devised this in my bachelor days (surprise) and called it "mush" or "moosh", but my son 
+rebranded it as "Fire Pasta". Seems suitable, given the coloring.
 
 ## Ingredients
 * 1 lb feta cheese (block)
 * 3 bell peppers (red, orange, yellow)
 * 1 box tri-colored rotini 
 
-For the feta - dry and firm is good. Trader Joe's is excellent.
+For the feta - dry and firm is good. Trader Joe's feta is excellent and a good bargain. 
+
+I've only ever used cows milk feta for this.
 
 ## Preparation
 * Start boiling water for the pasta.
