@@ -1,6 +1,6 @@
 # polenta
 
-## Overview.
+## Overview
 
 Traditional basic polenta, with feta. 
 
