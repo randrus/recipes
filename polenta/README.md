@@ -4,7 +4,7 @@
 
 Traditional basic polenta, with feta. 
 
-Because of course feata.
+Because of course feta.
 
 ## Ingredients
 * coarse corn meal
