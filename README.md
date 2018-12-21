@@ -1,3 +1,3 @@
 # recipes
 
-just so
+just so: stuff to eat
