@@ -1,6 +1,10 @@
 # polenta
 
-With feta, of course.
+## Overview.
+
+Traditional basic polenta, with feta. 
+
+Because of course feata.
 
 ## Ingredients
 * coarse corn meal
