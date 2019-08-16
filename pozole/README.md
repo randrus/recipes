@@ -3,9 +3,9 @@
 
 ## Chile Sauce
 ### Ingredients
-3 oz dried ancho chiles
-3 oz dried chiles de arbol
-garlic, salt
+* 3 oz dried ancho chiles
+* 3 oz dried chiles de arbol
+* garlic, salt
 
 ### Preparation
 * de-stem & de-seed chiles, soak in boiling water 1/2 hr weighted down
