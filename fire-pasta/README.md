@@ -21,7 +21,7 @@ I've only ever used cows milk feta for this.
 ## Preparation
 * Start boiling water for the pasta.
 * Cut the peppers into little chunks - 1/2" square or so.
-* Cut the feta into 1/2 cubes
+* Cut the feta into 1/2" cubes
 
 Once water is boiling, dump in the pasta. I like to add a little olive oil to 
 the water before the pasta - seems like it might keep it from sticking to itself
