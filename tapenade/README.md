@@ -8,7 +8,7 @@
 
 ## Preparation
 * put olives && capers into blender
-* buzz  
+* buzz == blenderize 
 * add olive oil for consistency 
 
 ## Have tried:
