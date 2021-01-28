@@ -1,4 +1,4 @@
-# Samecakes
+# Samcakes
 Thanks to Aunty Splash
 
 ## ingredients
